@@ -10,6 +10,8 @@ This is a simple search engine using python. You can search anything in this bro
    
    (pyQt5 is a powerful web development package) 
    
+3) Also install pip install PyQtWebEngine and run this in terminal.
+   
 # 🗞️ LICENSE
 
 MIT license 
