@@ -6,7 +6,7 @@ This is a simple search engine using python. You can search anything in this bro
 
 1) first you have install pycharm 
 
-2) And then you have copy pip install pyQt5 and paste it in the terminal and run.
+2) And then you have copy pip install PyQt5 and paste it in the terminal and run.
    
    (pyQt5 is a powerful web development package) 
    
